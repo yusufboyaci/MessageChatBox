@@ -12,14 +12,15 @@ img {
     float: left;
     overflow: hidden;
     width: 40%;
-    border-right: 1px solid #c4c4c4;
+    /*border-right: 1px solid #c4c4c4;*/
+    border: 1px solid #c4c4c4;
 }
 
-.inbox_msg {
+/*.inbox_msg {
     border: 1px solid #c4c4c4;
     clear: both;
     overflow: hidden;
-}
+}*/
 
 .top_spac {
     margin: 20px 0 0;
